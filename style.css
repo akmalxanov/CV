@@ -1,0 +1,40 @@
+img{
+    width: 200px;
+    border-radius: 50%;
+}
+body{
+    background-color: #E8f9fd;
+    margin: 0;
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+
+hr{
+    border: none;
+    border-top: 5px dotted #0aa1dd;
+    margin: 50px auto;
+    width: 100px;
+}
+table td{
+    width: 250px;
+}
+.header{
+    background-color: #79daeb;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.footer{
+    background-color: #79daeb;
+    font-size: 25px;
+    padding: 30px 0;
+    width: auto;
+}
+
+a {
+    text-decoration: none;
+    padding: 20px;
+    color: #0aa1dd;
+}
+
